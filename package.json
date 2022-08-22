@@ -14,6 +14,7 @@
   "author": "x36",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.0.1"
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
   }
 }
