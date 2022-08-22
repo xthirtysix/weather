@@ -15,7 +15,7 @@ const getArgs = (args) => {
         }
     });
 
-    return Object.res(keys).length ? res : undefined;
+    return Object.keys(res).length ? res : undefined;
 };
 
 export { getArgs };
